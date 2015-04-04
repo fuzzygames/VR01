@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{C7B4C7D3-53DE-681F-350A-A9B64825EA1F}</ProjectGuid>
+	<ProjectGuid>{4DC6B132-A1AA-1110-1C7D-C62F7644AD61}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -47,8 +47,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Prefabs\Standard Assets\Scripts\FPSWalker.js" />
+     <None Include="Assets\Plugins\donotdelete.txt" />
+     <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
+     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
+     <None Include="Assets\OVR\Shaders\Unlit Transparent HUD.shader" />
      <None Include="Assets\SkyBoxes\sky5X\README.txt" />
      <None Include="Assets\Prefabs\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
+     <None Include="Assets\Plugins\x86\donotdelete.txt" />
      <None Include="Assets\Prefabs\Standard Assets\Cameras\CameraGuidelines.txt" />
      <None Include="Assets\Prefabs\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
