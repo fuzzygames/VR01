@@ -1,21 +1,15 @@
 fileFormatVersion: 2
-guid: 6f8897e84908eb84b8e66e0dfd07a407
-timeCreated: 1428145332
+guid: 83a503bac37c67f4ab96c3dc9e9bb86d
+timeCreated: 1428229946
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: group_0
-    100002: //RootNode
-    400000: group_0
-    400002: //RootNode
-    2300000: group_0
-    2300002: //RootNode
-    3300000: group_0
-    3300002: //RootNode
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: SketchUp
-    4300002: group_0
-    7400000: Default Take
     9500000: //RootNode
   materials:
     importMaterials: 1
