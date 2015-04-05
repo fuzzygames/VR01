@@ -1,20 +1,32 @@
 fileFormatVersion: 2
-guid: 049e42b15270252489d6331664214deb
-timeCreated: 1428145309
+guid: b56ef46cfff24b84c85ae40306c726af
+timeCreated: 1428193657
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: group_0
-    100002: //RootNode
+    100002: Plane
+    100004: SketchUp
+    100006: //RootNode
+    100008: group_0_001
     400000: group_0
-    400002: //RootNode
+    400002: Plane
+    400004: SketchUp
+    400006: //RootNode
+    400008: group_0_001
     2300000: group_0
-    2300002: //RootNode
+    2300002: Plane
+    2300004: SketchUp
+    2300006: group_0_001
     3300000: group_0
-    3300002: //RootNode
-    4300000: SketchUp
-    4300002: group_0
+    3300002: Plane
+    3300004: SketchUp
+    3300006: group_0_001
+    4300000: Plane
+    4300002: SketchUp
+    4300004: group_0
+    4300006: group_0_001
     7400000: Default Take
     9500000: //RootNode
   materials:
