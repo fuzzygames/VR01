@@ -9,24 +9,30 @@ ModelImporter:
     100002: //RootNode
     100004: Plane
     100006: SketchUp
+    100008: group_0_004
     400000: group_0
     400002: //RootNode
     400004: Plane
     400006: SketchUp
+    400008: group_0_004
     2300000: group_0
     2300002: //RootNode
     2300004: Plane
     2300006: SketchUp
+    2300008: group_0_004
     3300000: group_0
     3300002: //RootNode
     3300004: Plane
     3300006: SketchUp
+    3300008: group_0_004
     4300000: SketchUp
     4300002: group_0
     4300004: Plane
+    4300006: group_0_004
     6400000: group_0
     6400002: Plane
     6400004: SketchUp
+    6400006: group_0_004
     7400000: Default Take
     9500000: //RootNode
   materials:
