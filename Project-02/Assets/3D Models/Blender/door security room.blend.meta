@@ -13,6 +13,8 @@ ModelImporter:
     100010: group_3
     100012: group_4
     100014: vertical_001
+    100016: vertical_000
+    100018: vertical_002
     400000: //RootNode
     400002: Frame
     400004: group_1
@@ -21,24 +23,32 @@ ModelImporter:
     400010: group_3
     400012: group_4
     400014: vertical_001
+    400016: vertical_000
+    400018: vertical_002
     2300000: group_1
     2300002: group_1_001
     2300004: group_2
     2300006: group_3
     2300008: group_4
     2300010: vertical_001
+    2300012: vertical_000
+    2300014: vertical_002
     3300000: group_1
     3300002: group_1_001
     3300004: group_2
     3300006: group_3
     3300008: group_4
     3300010: vertical_001
+    3300012: vertical_000
+    3300014: vertical_002
     4300000: group_4
     4300002: group_3
     4300004: group_2
     4300006: group_1_001
     4300008: group_1
     4300010: vertical_001
+    4300012: vertical_000
+    4300014: vertical_002
     7400000: Default Take
     9500000: //RootNode
   materials:
