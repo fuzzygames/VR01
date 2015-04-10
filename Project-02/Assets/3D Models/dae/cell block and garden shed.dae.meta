@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: eaa010514e8adb347b96d440c7209ec4
+timeCreated: 1428604318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bannisters
+    100002: Bannisters 1
+    100004: Bottom_cells_postdig
+    100006: Bottom_cells_postdig 1
+    100008: Ceiling
+    100010: Ceiling 1
+    100012: //RootNode
+    100014: Cell_block
+    100016: Cell_block 1
+    100018: Cell_floor_and_ceilings
+    100020: Cell_floor_and_ceilings 1
+    100022: Cells
+    100024: Cells 1
+    100026: Floor
+    100028: Floor 1
+    100030: Garden_Shed
+    100032: Ground_or_ceilings
+    100034: Ground_or_ceilings 1
+    100036: group_0
+    100038: group_0 1
+    100040: group_1
+    100042: group_1 1
+    100044: group_10
+    100046: group_2
+    100048: group_2 1
+    100050: group_3
+    100052: group_3 1
+    100054: group_4
+    100056: group_4 1
+    100058: group_5
+    100060: group_5 1
+    100062: group_6
+    100064: group_6 1
+    100066: group_7
+    100068: group_7 1
+    100070: group_8
+    100072: group_8 1
+    100074: group_9
+    100076: group_9 1
+    100078: Horziontal
+    100080: Horziontal 1
+    100082: ID12
+    100084: ID128
+    100086: ID134
+    100088: ID140
+    100090: ID146
+    100092: ID158
+    100094: ID164
+    100096: ID170
+    100098: ID183
+    100100: ID189
+    100102: ID195
+    100104: ID209
+    100106: ID215
+    100108: ID221
+    100110: ID227
+    100112: ID233
+    100114: ID239
+    100116: ID245
+    100118: ID251
+    100120: ID257
+    100122: ID26
+    100124: ID263
+    100126: ID269
+    100128: ID280
+    100130: ID286
+    100132: ID292
+    100134: ID298
+    100136: ID304
+    100138: ID310
+    100140: ID316
+    100142: ID32
+    100144: ID322
+    100146: ID328
+    100148: ID334
+    100150: ID362
+    100152: ID374
+    100154: ID38
+    100156: ID380
+    100158: ID386
+    100160: ID476
+    100162: ID482
+    100164: ID488
+    100166: ID494
+    100168: ID506
+    100170: ID512
+    100172: ID518
+    100174: ID531
+    100176: ID537
+    100178: ID543
+    100180: ID557
+    100182: ID563
+    100184: ID569
+    100186: ID575
+    100188: ID581
+    100190: ID587
+    100192: ID593
+    100194: ID599
+    100196: ID605
+    100198: ID611
+    100200: ID617
+    100202: ID628
+    100204: ID634
+    100206: ID640
+    100208: ID646
+    100210: ID652
+    100212: ID658
+    100214: ID664
+    100216: ID670
+    100218: ID676
+    100220: ID682
+    100222: Left_Cells
+    100224: Left_Cells 1
+    100226: Main_central_floor
+    100228: Main_central_floor 1
+    100230: Ramps
+    100232: Ramps 1
+    100234: Right_cells
+    100236: Right_cells 1
+    100238: Roof___ceiling
+    100240: Tunnels
+    100242: Tunnels 1
+    100244: Vertical
+    100246: Vertical 1
+    100248: Walls
+    100250: Walls 1
+    100252: Walls 2
+    400000: Bannisters
+    400002: Bannisters 1
+    400004: Bottom_cells_postdig
+    400006: Bottom_cells_postdig 1
+    400008: Ceiling
+    400010: Ceiling 1
+    400012: //RootNode
+    400014: Cell_block
+    400016: Cell_block 1
+    400018: Cell_floor_and_ceilings
+    400020: Cell_floor_and_ceilings 1
+    400022: Cells
+    400024: Cells 1
+    400026: Floor
+    400028: Floor 1
+    400030: Garden_Shed
+    400032: Ground_or_ceilings
+    400034: Ground_or_ceilings 1
+    400036: group_0
+    400038: group_0 1
+    400040: group_1
+    400042: group_1 1
+    400044: group_10
+    400046: group_2
+    400048: group_2 1
+    400050: group_3
+    400052: group_3 1
+    400054: group_4
+    400056: group_4 1
+    400058: group_5
+    400060: group_5 1
+    400062: group_6
+    400064: group_6 1
+    400066: group_7
+    400068: group_7 1
+    400070: group_8
+    400072: group_8 1
+    400074: group_9
+    400076: group_9 1
+    400078: Horziontal
+    400080: Horziontal 1
+    400082: ID12
+    400084: ID128
+    400086: ID134
+    400088: ID140
+    400090: ID146
+    400092: ID158
+    400094: ID164
+    400096: ID170
+    400098: ID183
+    400100: ID189
+    400102: ID195
+    400104: ID209
+    400106: ID215
+    400108: ID221
+    400110: ID227
+    400112: ID233
+    400114: ID239
+    400116: ID245
+    400118: ID251
+    400120: ID257
+    400122: ID26
+    400124: ID263
+    400126: ID269
+    400128: ID280
+    400130: ID286
+    400132: ID292
+    400134: ID298
+    400136: ID304
+    400138: ID310
+    400140: ID316
+    400142: ID32
+    400144: ID322
+    400146: ID328
+    400148: ID334
+    400150: ID362
+    400152: ID374
+    400154: ID38
+    400156: ID380
+    400158: ID386
+    400160: ID476
+    400162: ID482
+    400164: ID488
+    400166: ID494
+    400168: ID506
+    400170: ID512
+    400172: ID518
+    400174: ID531
+    400176: ID537
+    400178: ID543
+    400180: ID557
+    400182: ID563
+    400184: ID569
+    400186: ID575
+    400188: ID581
+    400190: ID587
+    400192: ID593
+    400194: ID599
+    400196: ID605
+    400198: ID611
+    400200: ID617
+    400202: ID628
+    400204: ID634
+    400206: ID640
+    400208: ID646
+    400210: ID652
+    400212: ID658
+    400214: ID664
+    400216: ID670
+    400218: ID676
+    400220: ID682
+    400222: Left_Cells
+    400224: Left_Cells 1
+    400226: Main_central_floor
+    400228: Main_central_floor 1
+    400230: Ramps
+    400232: Ramps 1
+    400234: Right_cells
+    400236: Right_cells 1
+    400238: Roof___ceiling
+    400240: Tunnels
+    400242: Tunnels 1
+    400244: Vertical
+    400246: Vertical 1
+    400248: Walls
+    400250: Walls 1
+    400252: Walls 2
+    2300000: Ceiling
+    2300002: Ceiling 1
+    2300004: Cell_floor_and_ceilings
+    2300006: Cell_floor_and_ceilings 1
+    2300008: group_0
+    2300010: group_0 1
+    2300012: group_1
+    2300014: group_1 1
+    2300016: group_10
+    2300018: group_2
+    2300020: group_2 1
+    2300022: group_3
+    2300024: group_3 1
+    2300026: group_4
+    2300028: group_4 1
+    2300030: group_5
+    2300032: group_5 1
+    2300034: group_6
+    2300036: group_6 1
+    2300038: group_7
+    2300040: group_7 1
+    2300042: group_8
+    2300044: group_8 1
+    2300046: group_9
+    2300048: group_9 1
+    2300050: Horziontal
+    2300052: Horziontal 1
+    2300054: ID12
+    2300056: ID128
+    2300058: ID134
+    2300060: ID140
+    2300062: ID146
+    2300064: ID158
+    2300066: ID164
+    2300068: ID170
+    2300070: ID183
+    2300072: ID189
+    2300074: ID195
+    2300076: ID209
+    2300078: ID215
+    2300080: ID221
+    2300082: ID227
+    2300084: ID233
+    2300086: ID239
+    2300088: ID245
+    2300090: ID251
+    2300092: ID257
+    2300094: ID26
+    2300096: ID263
+    2300098: ID269
+    2300100: ID280
+    2300102: ID286
+    2300104: ID292
+    2300106: ID298
+    2300108: ID304
+    2300110: ID310
+    2300112: ID316
+    2300114: ID32
+    2300116: ID322
+    2300118: ID328
+    2300120: ID334
+    2300122: ID362
+    2300124: ID374
+    2300126: ID38
+    2300128: ID380
+    2300130: ID386
+    2300132: ID476
+    2300134: ID482
+    2300136: ID488
+    2300138: ID494
+    2300140: ID506
+    2300142: ID512
+    2300144: ID518
+    2300146: ID531
+    2300148: ID537
+    2300150: ID543
+    2300152: ID557
+    2300154: ID563
+    2300156: ID569
+    2300158: ID575
+    2300160: ID581
+    2300162: ID587
+    2300164: ID593
+    2300166: ID599
+    2300168: ID605
+    2300170: ID611
+    2300172: ID617
+    2300174: ID628
+    2300176: ID634
+    2300178: ID640
+    2300180: ID646
+    2300182: ID652
+    2300184: ID658
+    2300186: ID664
+    2300188: ID670
+    2300190: ID676
+    2300192: ID682
+    2300194: Left_Cells
+    2300196: Left_Cells 1
+    2300198: Main_central_floor
+    2300200: Main_central_floor 1
+    2300202: Ramps
+    2300204: Ramps 1
+    2300206: Right_cells
+    2300208: Right_cells 1
+    2300210: Roof___ceiling
+    2300212: Tunnels
+    2300214: Tunnels 1
+    2300216: Vertical
+    2300218: Vertical 1
+    2300220: Walls
+    2300222: Walls 1
+    2300224: Walls 2
+    3300000: Ceiling
+    3300002: Ceiling 1
+    3300004: Cell_floor_and_ceilings
+    3300006: Cell_floor_and_ceilings 1
+    3300008: group_0
+    3300010: group_0 1
+    3300012: group_1
+    3300014: group_1 1
+    3300016: group_10
+    3300018: group_2
+    3300020: group_2 1
+    3300022: group_3
+    3300024: group_3 1
+    3300026: group_4
+    3300028: group_4 1
+    3300030: group_5
+    3300032: group_5 1
+    3300034: group_6
+    3300036: group_6 1
+    3300038: group_7
+    3300040: group_7 1
+    3300042: group_8
+    3300044: group_8 1
+    3300046: group_9
+    3300048: group_9 1
+    3300050: Horziontal
+    3300052: Horziontal 1
+    3300054: ID12
+    3300056: ID128
+    3300058: ID134
+    3300060: ID140
+    3300062: ID146
+    3300064: ID158
+    3300066: ID164
+    3300068: ID170
+    3300070: ID183
+    3300072: ID189
+    3300074: ID195
+    3300076: ID209
+    3300078: ID215
+    3300080: ID221
+    3300082: ID227
+    3300084: ID233
+    3300086: ID239
+    3300088: ID245
+    3300090: ID251
+    3300092: ID257
+    3300094: ID26
+    3300096: ID263
+    3300098: ID269
+    3300100: ID280
+    3300102: ID286
+    3300104: ID292
+    3300106: ID298
+    3300108: ID304
+    3300110: ID310
+    3300112: ID316
+    3300114: ID32
+    3300116: ID322
+    3300118: ID328
+    3300120: ID334
+    3300122: ID362
+    3300124: ID374
+    3300126: ID38
+    3300128: ID380
+    3300130: ID386
+    3300132: ID476
+    3300134: ID482
+    3300136: ID488
+    3300138: ID494
+    3300140: ID506
+    3300142: ID512
+    3300144: ID518
+    3300146: ID531
+    3300148: ID537
+    3300150: ID543
+    3300152: ID557
+    3300154: ID563
+    3300156: ID569
+    3300158: ID575
+    3300160: ID581
+    3300162: ID587
+    3300164: ID593
+    3300166: ID599
+    3300168: ID605
+    3300170: ID611
+    3300172: ID617
+    3300174: ID628
+    3300176: ID634
+    3300178: ID640
+    3300180: ID646
+    3300182: ID652
+    3300184: ID658
+    3300186: ID664
+    3300188: ID670
+    3300190: ID676
+    3300192: ID682
+    3300194: Left_Cells
+    3300196: Left_Cells 1
+    3300198: Main_central_floor
+    3300200: Main_central_floor 1
+    3300202: Ramps
+    3300204: Ramps 1
+    3300206: Right_cells
+    3300208: Right_cells 1
+    3300210: Roof___ceiling
+    3300212: Tunnels
+    3300214: Tunnels 1
+    3300216: Vertical
+    3300218: Vertical 1
+    3300220: Walls
+    3300222: Walls 1
+    3300224: Walls 2
+    4300000: Walls
+    4300002: ID12
+    4300004: Ramps
+    4300006: ID26
+    4300008: ID32
+    4300010: ID38
+    4300012: Main_central_floor
+    4300014: group_0
+    4300016: group_1
+    4300018: group_2
+    4300020: group_3
+    4300022: group_4
+    4300024: group_5
+    4300026: group_6
+    4300028: group_7
+    4300030: group_8
+    4300032: group_9
+    4300034: Cell_floor_and_ceilings
+    4300036: ID128
+    4300038: ID134
+    4300040: ID140
+    4300042: ID146
+    4300044: Horziontal
+    4300046: ID158
+    4300048: ID164
+    4300050: ID170
+    4300052: Vertical
+    4300054: ID183
+    4300056: ID189
+    4300058: ID195
+    4300060: Right_cells
+    4300062: ID209
+    4300064: ID215
+    4300066: ID221
+    4300068: ID227
+    4300070: ID233
+    4300072: ID239
+    4300074: ID245
+    4300076: ID251
+    4300078: ID257
+    4300080: ID263
+    4300082: ID269
+    4300084: Left_Cells
+    4300086: ID280
+    4300088: ID286
+    4300090: ID292
+    4300092: ID298
+    4300094: ID304
+    4300096: ID310
+    4300098: ID316
+    4300100: ID322
+    4300102: ID328
+    4300104: ID334
+    4300106: Ceiling
+    4300108: Tunnels
+    4300110: Walls
+    4300112: ID362
+    4300114: Ramps
+    4300116: ID374
+    4300118: ID380
+    4300120: ID386
+    4300122: Main_central_floor
+    4300124: group_0
+    4300126: group_1
+    4300128: group_2
+    4300130: group_3
+    4300132: group_4
+    4300134: group_5
+    4300136: group_6
+    4300138: group_7
+    4300140: group_8
+    4300142: group_9
+    4300144: Cell_floor_and_ceilings
+    4300146: ID476
+    4300148: ID482
+    4300150: ID488
+    4300152: ID494
+    4300154: Horziontal
+    4300156: ID506
+    4300158: ID512
+    4300160: ID518
+    4300162: Vertical
+    4300164: ID531
+    4300166: ID537
+    4300168: ID543
+    4300170: Right_cells
+    4300172: ID557
+    4300174: ID563
+    4300176: ID569
+    4300178: ID575
+    4300180: ID581
+    4300182: ID587
+    4300184: ID593
+    4300186: ID599
+    4300188: ID605
+    4300190: ID611
+    4300192: ID617
+    4300194: Left_Cells
+    4300196: ID628
+    4300198: ID634
+    4300200: ID640
+    4300202: ID646
+    4300204: ID652
+    4300206: ID658
+    4300208: ID664
+    4300210: ID670
+    4300212: ID676
+    4300214: ID682
+    4300216: Ceiling
+    4300218: Tunnels
+    4300220: Walls
+    4300222: Roof___ceiling
+    4300224: group_10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
