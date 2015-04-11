@@ -7,11 +7,112 @@ ModelImporter:
   fileIDToRecycleName:
     100000: Wall
     100002: //RootNode
+    100004: Buildings
+    100006: Buildings_001
+    100008: Buildings_002
+    100010: Buildings_003
+    100012: Buildings_004
+    100014: Buildings_005
+    100016: Buildings_006
+    100018: Buildings_007
+    100020: Buildings_008
+    100022: Buildings_009
+    100024: Buildings_010
+    100026: Buildings_011
+    100028: Buildings_012
+    100030: Buildings_013
+    100032: Buildings_014
+    100034: Buildings_015
+    100036: SketchUp
+    100038: SketchUp_001
     400000: Wall
     400002: //RootNode
+    400004: Buildings
+    400006: Buildings_001
+    400008: Buildings_002
+    400010: Buildings_003
+    400012: Buildings_004
+    400014: Buildings_005
+    400016: Buildings_006
+    400018: Buildings_007
+    400020: Buildings_008
+    400022: Buildings_009
+    400024: Buildings_010
+    400026: Buildings_011
+    400028: Buildings_012
+    400030: Buildings_013
+    400032: Buildings_014
+    400034: Buildings_015
+    400036: SketchUp
+    400038: SketchUp_001
     2300000: Wall
+    2300002: Buildings
+    2300004: Buildings_001
+    2300006: Buildings_002
+    2300008: Buildings_003
+    2300010: Buildings_004
+    2300012: Buildings_005
+    2300014: Buildings_006
+    2300016: Buildings_007
+    2300018: Buildings_008
+    2300020: Buildings_009
+    2300022: Buildings_010
+    2300024: Buildings_011
+    2300026: Buildings_012
+    2300028: Buildings_013
+    2300030: Buildings_014
+    2300032: Buildings_015
     3300000: Wall
+    3300002: Buildings
+    3300004: Buildings_001
+    3300006: Buildings_002
+    3300008: Buildings_003
+    3300010: Buildings_004
+    3300012: Buildings_005
+    3300014: Buildings_006
+    3300016: Buildings_007
+    3300018: Buildings_008
+    3300020: Buildings_009
+    3300022: Buildings_010
+    3300024: Buildings_011
+    3300026: Buildings_012
+    3300028: Buildings_013
+    3300030: Buildings_014
+    3300032: Buildings_015
     4300000: Wall
+    4300002: Buildings_015
+    4300004: Buildings_014
+    4300006: Buildings_013
+    4300008: Buildings_012
+    4300010: Buildings_011
+    4300012: Buildings_010
+    4300014: Buildings_009
+    4300016: Buildings_008
+    4300018: Buildings_007
+    4300020: Buildings_006
+    4300022: Buildings_005
+    4300024: Buildings_004
+    4300026: Buildings_003
+    4300028: Buildings_002
+    4300030: Buildings_001
+    4300032: Buildings
+    6400000: Buildings
+    6400002: Buildings_001
+    6400004: Buildings_002
+    6400006: Buildings_003
+    6400008: Buildings_004
+    6400010: Buildings_005
+    6400012: Buildings_006
+    6400014: Buildings_007
+    6400016: Buildings_008
+    6400018: Buildings_009
+    6400020: Buildings_010
+    6400022: Buildings_011
+    6400024: Buildings_012
+    6400026: Buildings_013
+    6400028: Buildings_014
+    6400030: Buildings_015
+    6400032: Wall
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -35,7 +136,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

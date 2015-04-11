@@ -19,6 +19,14 @@ ModelImporter:
     100022: Ground
     100024: //RootNode
     100026: Sand
+    100028: Concrete_001
+    100030: Grass_002
+    100032: Grass_005
+    100034: Grass_006
+    100036: Ground_001
+    100038: Sand_001
+    100040: SketchUp
+    100042: SketchUp_001
     400000: Concrete
     400002: Grass
     400004: Grass_001
@@ -33,6 +41,14 @@ ModelImporter:
     400022: Ground
     400024: //RootNode
     400026: Sand
+    400028: Concrete_001
+    400030: Grass_002
+    400032: Grass_005
+    400034: Grass_006
+    400036: Ground_001
+    400038: Sand_001
+    400040: SketchUp
+    400042: SketchUp_001
     2300000: Concrete
     2300002: Grass
     2300004: Grass_001
@@ -45,6 +61,11 @@ ModelImporter:
     2300018: Grass_011
     2300020: Grass_012
     2300022: Sand
+    2300024: Concrete_001
+    2300026: Grass_002
+    2300028: Grass_005
+    2300030: Grass_006
+    2300032: Sand_001
     3300000: Concrete
     3300002: Grass
     3300004: Grass_001
@@ -57,6 +78,11 @@ ModelImporter:
     3300018: Grass_011
     3300020: Grass_012
     3300022: Sand
+    3300024: Concrete_001
+    3300026: Grass_002
+    3300028: Grass_005
+    3300030: Grass_006
+    3300032: Sand_001
     4300000: Concrete
     4300002: Sand
     4300004: Grass_012
@@ -69,10 +95,25 @@ ModelImporter:
     4300018: Grass_003
     4300020: Grass_001
     4300022: Grass
+    4300024: Concrete_001
+    4300026: Sand_001
+    4300028: Grass_006
+    4300030: Grass_005
+    4300032: Grass_002
     6400000: Concrete
     6400002: Grass
     6400004: Grass_001
     6400006: Sand
+    6400008: Concrete_001
+    6400010: Grass_002
+    6400012: Grass_003
+    6400014: Grass_004
+    6400016: Grass_005
+    6400018: Grass_006
+    6400020: Grass_007
+    6400022: Grass_008
+    6400024: Grass_009
+    6400026: Sand_001
     7400000: Default Take
     9500000: //RootNode
   materials:
