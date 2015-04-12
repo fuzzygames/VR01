@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 99a62072278a1574a9dac66ecad6af9a
+timeCreated: 1428774928
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Machine
+    100004: Screen1A
+    100006: Screen1B
+    100008: Screen2A
+    100010: Screen2B
+    100012: Screen3A
+    100014: Screen3B
+    100016: Screen4A
+    100018: Screen4B
+    100020: Screens
+    100022: Switches_003
+    100024: Plane
+    100026: SketchUp
+    100028: Cube
+    400000: //RootNode
+    400002: Machine
+    400004: Screen1A
+    400006: Screen1B
+    400008: Screen2A
+    400010: Screen2B
+    400012: Screen3A
+    400014: Screen3B
+    400016: Screen4A
+    400018: Screen4B
+    400020: Screens
+    400022: Switches_003
+    400024: Plane
+    400026: SketchUp
+    400028: Cube
+    2300000: Machine
+    2300002: Screen1A
+    2300004: Screen1B
+    2300006: Screen2A
+    2300008: Screen2B
+    2300010: Screen3A
+    2300012: Screen3B
+    2300014: Screen4A
+    2300016: Screen4B
+    2300018: Switches_003
+    2300020: Plane
+    2300022: Cube
+    3300000: Machine
+    3300002: Screen1A
+    3300004: Screen1B
+    3300006: Screen2A
+    3300008: Screen2B
+    3300010: Screen3A
+    3300012: Screen3B
+    3300014: Screen4A
+    3300016: Screen4B
+    3300018: Switches_003
+    3300020: Plane
+    3300022: Cube
+    4300000: Switches_003
+    4300002: Machine
+    4300004: Screen4B
+    4300006: Screen3B
+    4300008: Screen1B
+    4300010: Screen2B
+    4300012: Screen4A
+    4300014: Screen3A
+    4300016: Screen2A
+    4300018: Screen1A
+    4300020: Plane
+    4300022: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

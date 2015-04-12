@@ -108,6 +108,7 @@
      <Compile Include="Assets\Prefabs\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Prefabs\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Prefabs\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Scripts\Clunge.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
